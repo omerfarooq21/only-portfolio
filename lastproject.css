@@ -1,3 +1,4 @@
+
 div.row{
     text-align: center;
     margin-top: 15px;
@@ -5,4 +6,50 @@ div.row{
 div.omer{
     text-align: center;
     margin-top: 15px;
+}
+#k{
+    color: rgb(253, 103, 2);
+    text-align: right;
+    font-size: 35px;
+}
+#kh{
+    color: rgb(20, 211, 236);
+    text-align: right;
+    font-size: 35px;
+}
+#c{
+    color: rgb(224, 84, 2);
+    text-align: center;
+    font-size: 35px;
+}
+#q{
+    color: rgb(199, 2, 253);
+    text-align: left;
+    font-size: 30px;
+}
+#z{
+    color: rgb(112, 41, 109);
+    text-align: left;
+    font-size: 40px;
+}
+#zh{
+    color: rgb(160, 16, 152);
+    text-align: left;
+    font-size: 40px;
+}
+#qh{
+    color: rgb(107, 44, 207);
+    text-align :left;
+    font-size: 30px;
+}
+#o{
+    color: rgb(212, 60, 0);
+    text-align :center;
+    font-size: 25px;
+}
+#p{
+    color:rgb(173, 173, 173);
+    background-color: rgb(15, 12, 2);
+    display: inline;
+    font-size: 45px;
 }
